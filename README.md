@@ -98,7 +98,3 @@ tutorial: https://www.youtube.com/watch?v=Je4JWWJcyo0
 ---
 ## *Contribuidores* 🔥👊
 Este projeto foi desenvolvido durante o curso Formação Desenvolvedor Moderno da escola [@DevSuperior](https://devsuperior.com.br), sobe orientação do tutor [Nelio Alves](https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br).
-sobe orientação do tutor [Nelio Alves](https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br).
-
-
-
